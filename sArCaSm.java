@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 // THIS CODE WILL TURN YOUR PHRASES TO A SARCASTIC TONE
 
 public class Sarcasm {
